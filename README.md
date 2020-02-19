@@ -4,4 +4,9 @@ MKR Holder DAI-gest Weekly Recap of Statistics, Polls, Executive Votes, News, an
 
 To suggest edits or add content for an upcoming post please create a pull request.
 
+Posting Locations:
+
+https://medium.com
+https://reddit.com
+
 
