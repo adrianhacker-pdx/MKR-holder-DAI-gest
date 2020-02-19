@@ -6,7 +6,7 @@ To suggest edits or add content for an upcoming post please create a pull reques
 
 Posting Locations:
 
-https://medium.com
+https://medium.com <br/>
 https://reddit.com
 
 
