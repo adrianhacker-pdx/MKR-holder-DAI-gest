@@ -21,7 +21,7 @@ Three-Point Governance Summary:
 
 * MKR auctions will soon begin selling lots of 250 MKR with a starting bid of 50,000 Dai.  Auctions that are not won will be reduced in price by 20% until the lot sells.  MKR auctions will continue until the system debt is paid.
 
-* The state of the peg has been running high with a seven day max at $1.22.  People have been turning to the DAI stablecoin during this time of extreme price volatility.  This is a good sign showing that the uncapitalized debt is not affecting the value of Dai.  Allows more time to
+* The state of the peg has been running high with a seven day max at $1.22.  People have been turning to the DAI stablecoin during this time of extreme price volatility.  This is a good sign showing that the uncapitalized debt is not affecting the value of Dai. 
 
 DAI-hard Digits
 
