@@ -1,14 +1,16 @@
 # The Dawn Following the Darkest Night
 # MKR Holder DAI-gest: Week 13, 2020
-## Governance Recap Week March 26, 2020
+## Governance Recap March 26, 2020
 
 MKR Holder DAI-gest is a weekly Maker governance recap that is written by the community for the community.  The best source of Maker Community information is through active participation and engagement.   This supplemental publication strives to present all relevant facts and remain free of editorial opinion (Big 3 takeaway excepted).  The statements made herein are not the opinions or statements of the Maker Foundation.  
 
 https://mkrdai.info  (Excuse the mess, site is being remodeled.  Check back soon to learn fun and horrible facts about regulated banks.)
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6FHDJ6d/funny-pictures-bank-chains-on-pens.jpg" alt="funny-pictures-bank-chains-on-pens" border="0"></a>
+
 Corrections / Comments / Suggestions / Other:  ahacker.or.us@gmail.com
 
-# Big 3 Take-aways for the week:
+# Big 3 Take-Aways for the Week:
 
 * For those that utilize the services and products on the MakerDAO platform, risk of losing all of what you have invested is possible at any time.  Such as anything material.  Extensive analysis and resources are spent on building safety and security into this complex machine proactively, but it is impossible to plan for every scenario.  Investing of any kind requires due diligence, upon which it is the investors responsibility to locate data that is accurate and pertinent prior to investing.
 
@@ -39,16 +41,15 @@ Opened March 26, 2020
 
 ## [Polls that ran March 23-26, 2020](https://vote.makerdao.com/polling) are the current parameters up for vote in the current Executive opened March 26, 2020.
 
+# Current Issues
 
 ## Recapping Last Week's Events
 
 The MakerDAO foundation members along with governance and risk members worked very hard to respond to a system security event.  MakerDAO foundation members have been working very hard to analyze, model, and understand the sequence and implication of what happened.  Results will be published when they are available.  Outside consultants are also being brought in to help analyze and prevent such an occurrence.  If you ever doubt the efforts invested in making MakerDAO safe for all, I urge you to watch the four governance and risk calls from last week.  Quick action, bright ideas, and level heads prevailed.
 
-## Night is Darkest Just Before Dawn
-
 ## Vault Holder Compensation
 
-A lot of strong activity and effort this week was put into the continued post mortem analysis of the black Thursday Swan-a-thon.  Forward momentum is very strong in terms of analyzing best choices moving forward.  There were some vault holders that may have possibly lost collateral beyond the requirement to repay their debt.  The Governance group is seeking the balance of favorable perceptions, listening and supporting, asserting zero liability, zero precedence for implied liability or contributory negligence claims.  The MakerDAO platform was operational and fully functional, as it was intended, when these perceived losses occurred.  In the mid-19th century, when pioneers were settling the West in the United States, risk was the way of life in hope of greater opportunity.  The MakerDAO foundation team and governance community is committed to learning all there is to know about the causality of this glitch to ensure system security.
+A lot of strong activity and effort this week was put into the continued post mortem analysis of the black Thursday Swan-a-thon.  Forward momentum is very strong in terms of analyzing how to best move forward.  There were some vault holders that may have possibly lost collateral beyond the requirement to repay their debt.  The governance group is trying to balance favorable perceptions, listening and supporting, asserting zero liability, zero precedence for implied liability or contributory negligence claims.  The MakerDAO platform was operational and fully functional, as it was intended, when these perceived losses occurred.  In the mid-19th century, when pioneers were settling the West in the United States, risk was the way of life in hope of greater opportunity.  This is all part of the growth process.  The end result will be a stronger, healthier, more stable platform.  The MakerDAO Foundation team and governance community is committed to learning all there is to know about the causality of this glitch to ensure system security.  
 
 ## Debt Auctions Blocked in the DAI Credit System
 
@@ -56,11 +57,11 @@ A minor glitch has caused around twenty flop auctions to become stuck in a state
 
 ## Monetary Policy actions and their implications on MakerDAO
 
-The last couple of weeks have heard this sentiment on more than one occasion:  Do we know how monetary policy actions have truly affected other parameters of the ecosystem?  What systems are in place to record and analyze data that is a result of monetary policy?  It has not been a formal agenda subject, but concern and questions are coming up seeking to understand what  we really understand and how we're reaching conclusions that are consistent and correct.  There is agreement of the need to further explore this issue, however, it has thus far been tabled in favor of more pressing issues or people's time.  :)
+The last couple of weeks have heard this sentiment on more than one occasion:  Do we know how monetary policy actions have truly affected other parameters of the ecosystem?  What systems are in place to record and analyze data that is a result of monetary policy?  It has not been a formal agenda subject, but concern and questions are coming up seeking to understand what  we really understand and how we're reaching conclusions that are consistent and correct.  There is agreement of the need to further explore this issue, however, it has thus far been tabled in favor of more pressing issues.
 
 ## [Governance Initiative: DeFi Consortium on Emergency Shutdown Criterion]( https://forum.makerdao.com/t/governance-initiative-defi-consortium-on-emergency-shutdown-criterion/1829)
 
-Now forming: a small but well represented consortium of MakerDAO platform and outer ecosystem stake holders to develop formal guidance and framework for using the system Emergency Shutdown.  Check out details in the forum thread, ask questions, or cast your hat in for consideration in being a participant.  WANTED: IF YOU KNOW ANYONE PLEASE PASS ALONG THIS COMMITTEE FORMATION:  Seeking outer edge high-stake ecosystem stake holders.  This includes representatives of DEX and Dapps based around the DAI-conomy. Emergency Shutdown affects any and all Dai holders or variant integration's in serious ways.  Participation from outer ecosystem operational teams is needed and highly appreciated.
+Now forming: a small but well represented consortium of MakerDAO platform and outer ecosystem stake holders to develop formal guidance and framework for using the system Emergency Shutdown.  Check out details in the forum thread, ask questions, or cast your hat in for consideration in being a participant.  WANTED: IF YOU KNOW ANYONE PLEASE PASS ALONG THIS COMMITTEE FORMATION:  Seeking third-party ecosystem stake holders.  This includes representatives of DEX and Dapps based around Dai or Dai variants. Emergency Shutdown affects any and all Dai holders or variant integration's in serious ways.  Participation from some third-party operational teams is sought and highly appreciated.
 
 ## SCD shutdown is still out in the future some months, but beginning to take formal shape in Governance
 
@@ -68,7 +69,7 @@ This [forum thread](https://forum.makerdao.com/t/sequential-process-for-scd-shut
 
 ## [USDC Usage Analytics](https://youtu.be/hc3NCt7hcnw?t=2833)
 
-The new USDC collateral type approved and implemented by MakerDAO governance was selected based upon two very specific use cases: 
+The new USDC collateral type that was approved and implemented by MakerDAO governance was selected based upon two very specific use cases: 
 
 * Being able to generate Dai liquidity for flop auctions.  Dai is in short supply as recent market price scares have caused Dai holders to hodl on to their Dai for dear life.
 
@@ -82,7 +83,7 @@ Questions arose around the availability of USDC backed Dai metrics.  While there
 
 Constrained Dai liquidity has been persistent as crypto market fears linger.  Dai holders are less motivated to sell because of the stability offered by Dai during these uncertain times.  The peg has been running at a spread of (L)$1.02-(H)$1.04 over the last week.  Although high, this price point has been stable which is a good sign.  
 
-Dai that is created by Eth-A remained flat as price instability fears remain in the forefront of people's investing fears.  Until a slightly higher peg is to be expected while Dai demand is high and supply stays constrained.  Completing all of the flop auctions is a high priority to help relieve the current Dai liquidation crunch.
+Dai that is created by Eth-A remained flat as price instability fears remain in the forefront of people's investing fears.  A slightly higher peg is to be expected while Dai demand is high and supply stays constrained.  Completing all of the flop auctions is a high priority to help relieve the current Dai liquidation crunch.
 
 ## Sai Migration
 
@@ -97,7 +98,6 @@ Trending issues not mentioned here include:
 * Compensating zero Dai bid vault holders
 * [More on SCD Shutdown](https://forum.makerdao.com/t/signal-thread-scd-shutdown/1673)
 * [Suggestions on updating the current signaling guidelines](https://forum.makerdao.com/t/suggestions-for-updating-the-signaling-guidlines/1815)
-* Venmo style payment app
 
 # Weekly Governance and Risk Meetings
 
