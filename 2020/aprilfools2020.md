@@ -13,7 +13,7 @@ Special Guest Correspondents:  Milli Vanilli sitting in a tub together.  Nothing
 
 # Big 3 Take Aways for the Week
 
-* It's totally ok to borrow someone elses work.  Why re-invent the wheel?  You saw how we were award winning singers in the 90's, right?  We didn't have time to actually learn how to sing.  Industry leading plagarist..uh..we mean activist, Tron, has the efficiency of reproducing creativity down to a science.  It's no conicidence that they call thier CDP engine the "Tub"...we mentored them.  Changing the font face and color scheme is pretty much creating something new from the ground up.
+* [It's totally ok to borrow someone elses work.](https://djed.tronscan.org/#/home)  Why re-invent the wheel?  You saw how we were award winning singers in the 90's, right?  We didn't have time to actually learn how to sing.  Industry leading plagarist..uh..we mean activist, Tron, has the efficiency of reproducing creativity down to a science.  It's no conicidence that they call thier CDP engine the "Tub"...we mentored them.  Changing the font face and color scheme is pretty much creating something new from the ground up.
 
 * [Ctrl+c , Ctrl+v](https://youtu.be/h1Fk_mDem4o) efficiency does not have to be sacraficed in the evolution of world class technology.
 
@@ -33,3 +33,19 @@ Special Guest Correspondents:  Milli Vanilli sitting in a tub together.  Nothing
 
 * Allows users to open vaults with POGS.
   * Power Ranger Pogs will be worth the most.
+  
+<a href="https://ibb.co/HpvGqpj"><img src="https://i.ibb.co/Fqv8zqF/power-rangers-episodes-fan.jpg" alt="power-rangers-episodes-fan" border="0"></a>
+
+# Current Issues
+
+## Pogs as New Collateral Type
+
+In an ambitious step toward further decentralization, governance approves the addition of Pogs to the collateral options for opening vaults.  The executive vote was passed within hours of being posted for voting.  With no central authority behind them, and the fact that Power Ranger and Pokemon pogs are highly sought, this clearly balances any risks that USDC could ever pose.  4th graders everywhere are hearlding the move as "awesome."  Annoyed parents everywhere are preparing for the on slaught of public tantrems that will ensue.
+
+## Lindsey Lohan Reaches out to MakerDAO, Solicits Services as Spokesperson
+
+# Weekly Governance and Risk Meetings
+
+* [YouTube Video EP. XX 4/1/20](https://youtu.be/txqiwrbYGrs)
+
+The Un-released Governance and Risk call following "Black Thursday."  The shocking first reaction of Governance Community memebers trying to understand this black swan event. 
